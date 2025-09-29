@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Anton – welcome to my GitHub!
 
-<!--
-**anton-andrade/anton-andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about using technology to help others and make a real difference, especially in health and well-being.  
+Currently studying Computer Science at Nottingham Trent University.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- Projects ---
+
+--- Personal Projects
+<!-- For any health, medtech, or side projects you do -->
+
+- [Project 1: Health Tracker] <!-- Example, update as you create -->
+- [Project 2: BMI/BMR Calculator]
+
+---University Projects
+<!-- Coursework or group projects from NTU -->
+
+- [Project 1: Mobile App Assignment]
+- [Project 2: Cloud Java Project]
